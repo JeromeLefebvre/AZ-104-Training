@@ -1,0 +1,7 @@
+                "subnets": [],
+                "virtualNetworkPeerings": [],
+                "enableDdosProtection": false
+            }
+        }
+    ]
+}
